@@ -1,0 +1,51 @@
+{
+  "javascript": [
+    "~/App_Plugins/uSyncPublisher/publish_8104.js",
+
+    "~/App_Plugins/uSyncPublisher/services/cache.service.js",
+    "~/App_Plugins/uSyncPublisher/services/publish.service.js",
+    "~/App_Plugins/uSyncPublisher/services/publishing.service.js",
+
+    "~/App_Plugins/uSyncPublisher/resources/uSyncPublishAction.manager.js",
+    "~/App_Plugins/uSyncPublisher/resources/uSyncPublishDialog.manager.js",
+    "~/App_Plugins/uSyncPublisher/resources/uSyncPublishServer.manager.js",
+
+    "~/App_Plugins/uSyncPublisher/components/uSyncItemBrowser.component.js",
+    "~/App_Plugins/uSyncPublisher/components/uSyncPublishingAction.component.js",
+    "~/App_Plugins/uSyncPublisher/components/uSyncPublishResult.component.js",
+    "~/App_Plugins/uSyncPublisher/components/uSyncSendOption.component.js",
+    "~/App_Plugins/uSyncPublisher/components/uSyncServerPicker.component.js",
+    "~/App_Plugins/uSyncPublisher/components/uSyncUserControlledBoolean.component.js",
+    "~/App_Plugins/uSyncPublisher/components/uSyncReportSummary.component.js",
+
+    "~/App_Plugins/uSyncPublisher/dashboard/blank.controller.js",
+    "~/App_Plugins/uSyncPublisher/dashboard/browser.controller.js",
+    "~/App_Plugins/uSyncPublisher/dashboard/cache.controller.js",
+    "~/App_Plugins/uSyncPublisher/dashboard/default.controller.js",
+    "~/App_Plugins/uSyncPublisher/dashboard/settings.controller.js",
+    "~/App_Plugins/uSyncPublisher/dashboard/sync.controller.js",
+
+    "~/App_Plugins/uSyncPublisher/server/settings.controller.js",
+
+    "~/App_Plugins/uSyncPublisher/dialogs/addServer.controller.js",
+    "~/App_Plugins/uSyncPublisher/dialogs/publisherDialog.controller.js",
+    "~/App_Plugins/uSyncPublisher/dialogs/sideBySide.controller.js",
+
+    "~/App_Plugins/uSyncPublisher/backoffice/uSyncPublisher/dashboard.controller.js",
+    "~/App_Plugins/uSyncPublisher/backoffice/uSyncPublisher/delete.controller.js",
+    "~/App_Plugins/uSyncPublisher/backoffice/uSyncPublisher/server.controller.js",
+    "~/App_Plugins/uSyncPublisher/backoffice/uSyncPublisher/sort.controller.js",
+
+    "~/App_Plugins/uSyncPublisher/pickers/userGroupPicker.controller.js",
+
+    "~/App_Plugins/uSyncPublisher/remote/remoteOverlay.controller.js",
+    "~/App_Plugins/uSyncPublisher/remote/syncSetup.controller.js",
+
+    "~/App_Plugins/uSyncPublisher/serverPicker/picker.controller.js",
+    "~/App_Plugins/uSyncPublisher/serverPicker/serverPickerDialog.controller.js"
+  ],
+  "css": [
+    "~/App_Plugins/uSyncPublisher/publish_8104.css",
+    "~/App_Plugins/uSyncPublisher/usyncpublish.css"
+  ]
+} 
