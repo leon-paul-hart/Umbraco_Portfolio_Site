@@ -14,7 +14,8 @@
       "launchBrowser": true,
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      },
+      "launchUrl": "https://localhost:44327/umbraco"
     },
     "Umbraco.Web.UI": {
       "applicationUrl": "https://localhost:44327;http://localhost:18803",
